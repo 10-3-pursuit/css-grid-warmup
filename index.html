@@ -3,27 +3,23 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>repl.it</title>
+    <title>Nested Grid Example</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
 
   <body>
     <div class="container">
-      <div class="row">
-        <div class="full">A</div>
+      <div class="child">A</div>
+      <div class="child">B</div>
+      <div class="container child">
+        <div class="child">C</div>
+        <div class="child">D</div>
+        <div class="child">E</div>
       </div>
-      <div class="row">
-        <div class="wide">B</div>
-        <div>C</div>
-        <div>D</div>
-      </div>
-      <div class="row">
-        <div>E</div>
-        <div class="wide">F</div>
-        <div>G</div>
-      </div>
-      <div class="row">
-        <div class="full">H</div>
+      <div class="container child">
+        <div class="child">F</div>
+        <div class="child">G</div>
+        <div class="child">I</div>
       </div>
     </div>
   </body>

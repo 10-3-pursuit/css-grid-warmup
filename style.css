@@ -1,28 +1,12 @@
-* {
-  margin: 10px;
-  padding: 10px;
-}
-
 .container {
-  border: 1px solid blueviolet;
+  border: 3px solid pink;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   text-align: center;
 }
 
-.row {
-  background: azure;
-  border: 1px solid darkslateblue;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-
-.row div {
-  border: 1px solid lightblue;
-}
-
-.wide {
-  grid-column: span 2;
-}
-
-.full {
-  grid-column: 1 / 5;
+.child {
+  background: #eee;
+  margin: 10px;
+  padding: 10px;
 }
