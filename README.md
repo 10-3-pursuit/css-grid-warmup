@@ -6,4 +6,10 @@ Update the CSS so that it matches the image below.
 
 **Hint:** You must add styles for the full and wide classes.
 
-![complex layout](assets/complex-layout-start.png)
+### STARTING IMAGE
+
+![complex layout start](assets/complex-layout-start.png)
+
+### ENDING IMAGE
+
+![complex layout end](assets/complex-layout-end.png)
