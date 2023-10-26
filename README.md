@@ -12,10 +12,10 @@ And that's not all... You still might have to make another CSS change.
 
 Don't overcomplicate it!
 
-## START
+## STARTING IMAGE
 
 ![complex layout](assets/complex-layout-starter.png)
 
-## END
+## ENDING IMAGE
 
 ![complex layout](assets/complex-layout-ender.png)
