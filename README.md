@@ -8,7 +8,7 @@ Update the CSS so that it matches the image below.
 
 ### STARTING IMAGE
 
-![complex layout start](assets/complex-layout-start.png)
+![complex layout start](assets/complex-layout-starter.png)
 
 ### ENDING IMAGE
 
