@@ -4,12 +4,12 @@ Take a look at the code in this repo, which makes use of a pattern of "rows" tha
 
 Update the CSS so that it matches the image below.
 
-**Hint:** You must add styles for the full and wide classes.
+**Hint:** You must add styles for the full and wide classes. And that's not all!
 
-### STARTING IMAGE
+## START
 
-![complex layout start](assets/complex-layout-starter.png)
+![complex layout](assets/complex-layout-starter.png)
 
-### ENDING IMAGE
+## END
 
-![complex layout end](assets/complex-layout-end.png)
+![complex layout](assets/complex-layout-ender.png)
