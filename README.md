@@ -4,6 +4,8 @@
 
 Take a look at the code in this repo, (both HTML & CSS ), which makes use of a pattern of "rows" that encapsulate a series of div elements.
 
+Study the images carefully.
+
 Update the CSS so that it matches the image below.
 
 **Hint:** You must add styles for the full and wide classes.
